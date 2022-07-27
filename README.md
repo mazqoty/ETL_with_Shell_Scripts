@@ -1,4 +1,4 @@
-# ETL_Using_Shell_Scripts
+# ETL Using Shell Scripts
 Copy the data in the file 'web-server-access-log.txt.gz' to the table 'access_log' in the PostgreSQL database 'template1'.
 
 The file is available at the location : Log Data
