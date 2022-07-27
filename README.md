@@ -25,4 +25,4 @@ The .txt file contains the timestamp, latitude, longitude and visitor id apart f
 Transforms the text delimeter from "#" to "," and saves to a csv file.
 Loads the data from the CSV file into the table 'access_log' in PostgreSQL database.
 
-<img src="https://i.imgur.com/u82IcQO.jpg" width="900px" height=500px/>
+<img src="https://i.imgur.com/u82IcQO.jpg" width="1000px" height=600px/>
